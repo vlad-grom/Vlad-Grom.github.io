@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.0.1/17227
 // Filename: Vlad_Grom_v6.ggsk
-// Generated чт янв. 21 09:31:34 2021
+// Generated чт янв. 21 10:18:51 2021
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
