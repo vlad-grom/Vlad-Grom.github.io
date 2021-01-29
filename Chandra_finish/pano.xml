@@ -202,7 +202,6 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label border="1" height="20" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" borderradius="1" textalpha="1" textcolor="0x000000" enabled="1" backgroundalpha="1" wordwrap="1" width="180"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" pan="-22.2025" target="$fwd" title="Living room 1" url="{node8}" tilt="0" skinid="ht_node" description=""/>
       <hotspot id="Point02" pan="41.4324" target="$fwd" title="Badroom 1 floor 1" url="{node21}" tilt="-4.47" skinid="ht_node" description=""/>
       <hotspot id="Point03" pan="-157.67" target="-83.3/13.0/70.0" title="Staircase to the 2nd floor" url="{node25}" tilt="9.58" skinid="ht_node" description=""/>
       <hotspot id="Point04" pan="-62.85" target="-96.0/0.0/70.0" title="Living room 1" url="{node8}" tilt="-20.97" skinid="ht_node" description=""/>
