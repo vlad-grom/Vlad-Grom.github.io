@@ -9,7 +9,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="-10">
-      <start projection="4" pan="131" fov="70" tilt="0"/>
+      <start projection="4" pan="131" fov="70" tilt="1"/>
       <flyin projection="9" pan="0" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" pan="360" fov="120" tilt="90" fovfisheye="360" fovstereographic="270"/>
@@ -20,7 +20,7 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" wordwrap="1" textalpha="1" enabled="1" width="180" background="1" textcolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot description="" pan="-213.07" url="{node22}" target="122.4/2.7/70.0" tilt="1.22" id="Point01" skinid="ht_node" title="Сourtyard 2"/>
+      <hotspot description="" pan="-213.07" url="{node22}" target="122.5/-0.6/70.0" tilt="1.22" id="Point01" skinid="ht_node" title="Сourtyard 2"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafteroutfov="20" zoomin="0" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1"/>
@@ -49,7 +49,7 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" wordwrap="1" textalpha="1" enabled="1" width="180" background="1" textcolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot description="" pan="-175.85" url="{node8}" target="177.4/-3.5/70.0" tilt="0.38" id="Point02" skinid="ht_node" title="Living room 1"/>
+      <hotspot description="" pan="-175.85" url="{node8}" target="-86.3/-0.1/71.5" tilt="0.38" id="Point02" skinid="ht_node" title="Living room 1"/>
       <hotspot description="" pan="-238.05" url="{node21}" target="120.2/0.0/70.0" tilt="0.2" id="Point03" skinid="ht_node" title="Badroom 1 floor 1"/>
       <hotspot description="" pan="-64.31" url="{node23}" target="131.0/0.0/70.0" tilt="0.79" id="Point01" skinid="ht_node" title="Сourtyard 1"/>
     </hotspots>
@@ -69,7 +69,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="-35">
-      <start projection="4" pan="-95.99" fov="70" tilt="0"/>
+      <start projection="4" pan="-82.99" fov="70" tilt="0"/>
       <flyin projection="9" pan="0" fov="170" tilt="-90"/>
       <min pan="-360" fovpixel="2" tilt="-90"/>
       <max scaletofit="1" pan="0" fov="120" tilt="90" fovfisheye="360" fovstereographic="270"/>
@@ -81,9 +81,9 @@
       <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" wordwrap="1" textalpha="1" enabled="1" width="180" background="1" textcolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="-338.95" url="{node22}" target="23.5/0.0/77.9" tilt="3.19" id="Point01" skinid="ht_node" title="Сourtyard 2"/>
-      <hotspot description="" pan="-202.84" url="{node11}" target="90.9/-8.1/70.0" tilt="-1.99" id="Point04" skinid="ht_node" title="Guest toilet"/>
+      <hotspot description="" pan="-202.84" url="{node11}" target="91.1/-19.5/89.7" tilt="-1.99" id="Point04" skinid="ht_node" title="Guest toilet"/>
       <hotspot description="" pan="-89.81" url="{node12}" target="-59.5/-0.9/70.0" tilt="0.25" id="Point05" skinid="ht_node" title="Living room 3"/>
-      <hotspot description="" pan="91.678" url="{node24}" target="$fwd" tilt="-2.67" id="Point02" skinid="ht_node" title="Corridor 1st floor"/>
+      <hotspot description="" pan="118.8" url="{node24}" target="-115.0/-0.7/91.0" tilt="-3.01" id="Point02" skinid="ht_node" title="Corridor 1st floor"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafteroutfov="20" zoomin="0" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1"/>
@@ -112,8 +112,8 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" wordwrap="1" textalpha="1" enabled="1" width="180" background="1" textcolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot description="" pan="-62.96" url="{node13}" target="-55.3/-0.0/70.0" tilt="0.53" id="Point01" skinid="ht_node" title="Living room 4"/>
-      <hotspot description="" pan="-272.67" url="{node8}" target="125.3/-3.1/70.0" tilt="-2.97" id="Point03" skinid="ht_node" title="Living room 1"/>
+      <hotspot description="" pan="-62.96" url="{node13}" target="-55.3/0.0/70.0" tilt="0.53" id="Point01" skinid="ht_node" title="Living room 4"/>
+      <hotspot description="" pan="-272.67" url="{node8}" target="134.3/-0.6/70.0" tilt="-2.97" id="Point03" skinid="ht_node" title="Living room 1"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomafteroutfov="20" zoomin="0" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1"/>
@@ -202,7 +202,7 @@
       <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" wordwrap="1" textalpha="1" enabled="1" width="180" background="1" textcolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot description="" pan="39.0224" url="{node21}" target="$fwd" tilt="1.89" id="Point02" skinid="ht_node" title="Badroom 1 floor 1"/>
-      <hotspot description="" pan="-158.08" url="{node25}" target="-83.3/13.0/70.0" tilt="30.67" id="Point03" skinid="ht_node" title="Staircase to the 2nd floor"/>
+      <hotspot description="" pan="-158.08" url="{node25}" target="-82.9/6.0/70.0" tilt="30.67" id="Point03" skinid="ht_node" title="Staircase to the 2nd floor"/>
       <hotspot description="" pan="-59.43" url="{node8}" target="-96.0/0.0/70.0" tilt="-1.5" id="Point04" skinid="ht_node" title="Living room 1"/>
       <hotspot description="" pan="-115.47" url="{node11}" target="78.0/-20.0/87.0" tilt="-0.41" id="Point05" skinid="ht_node" title="Guest toilet"/>
     </hotspots>
