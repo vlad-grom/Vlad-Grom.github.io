@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node27" appversion="6.0.1" apprev="17227">
+  <panorama hideabout="1" id="node27">
+    <input leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="4840" overlap="1" levelbias="0.400" levelingroll="-1" levelbiashidpi="1.000" width="4840" levelingpitch="0">
+      <level preload="0" height="4840" predecode="0" width="4840"/>
+      <level preload="0" height="2420" predecode="0" width="2420"/>
+      <level preload="0" height="1210" predecode="0" width="1210"/>
+      <level preload="0" height="605" predecode="0" width="605"/>
+      <level preload="1" height="302" predecode="1" width="302"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-173.7" fov="70" projection="4" tilt="-20.97"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="" latitude="">
+      <mapcoords y="-0.3833430913348946" x_floorplan_percent="18.52459016393443" y_floorplan_percent="22.49710088906069" x="0.5210040983606558" mapid="FloorPlan03"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node26}" id="Point01" pan="-152.69" title="" description="" target="-156.0/-22.3/70.0" tilt="-34.35" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node26">
+    <input leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="4833" overlap="1" levelbias="0.400" levelingroll="-2" levelbiashidpi="1.000" width="4833" levelingpitch="0">
+      <level preload="0" height="4833" predecode="0" width="4833"/>
+      <level preload="0" height="2416" predecode="0" width="2416"/>
+      <level preload="0" height="1208" predecode="0" width="1208"/>
+      <level preload="0" height="604" predecode="0" width="604"/>
+      <level preload="1" height="302" predecode="1" width="302"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-167.54" fov="70" projection="4" tilt="-22.44"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="" latitude="">
+      <mapcoords y="-0.7785421545667447" x_floorplan_percent="54.07494145199063" y_floorplan_percent="45.68998840355624" x="1.520857728337236" mapid="FloorPlan03"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node25}" id="Point01" pan="-155.64" title="" description="" target="-21.7/-36.8/70.0" tilt="-29.72" skinid="ht_node"/>
+      <hotspot url="{node27}" id="Point02" pan="-350.55" title="" description="" target="163.5/-22.2/70.0" tilt="1.03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node25">
+    <input leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="4840" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="4840" levelingpitch="0">
+      <level preload="0" height="4840" predecode="0" width="4840"/>
+      <level preload="0" height="2420" predecode="0" width="2420"/>
+      <level preload="0" height="1210" predecode="0" width="1210"/>
+      <level preload="0" height="605" predecode="0" width="605"/>
+      <level preload="1" height="302" predecode="1" width="302"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-23.22" fov="69.6" projection="4" tilt="-33.39"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="19.09.2021 12:52" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="" latitude="">
+      <mapcoords y="-1.70396662763466" x_floorplan_percent="85.80796252927401" y_floorplan_percent="100" x="2.413348946135831" mapid="FloorPlan03"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node6}" id="Point01" pan="-11.93" title="" description="" target="1.0/10.2/83.0" tilt="-63.72" skinid="ht_node"/>
+      <hotspot url="{node26}" id="Point02" pan="-190.38" title="" description="" target="156.0/-21.4/70.0" tilt="-0.98" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3239" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3239" levelingpitch="0">
+      <level preload="0" height="3239" predecode="0" width="3239"/>
+      <level preload="0" height="1619" predecode="0" width="1619"/>
+      <level preload="0" height="809" predecode="0" width="809"/>
+      <level preload="1" height="404" predecode="1" width="404"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="104" fovmode="0">
+      <start pan="0.99" fov="83.04" projection="4" tilt="10.23"/>
+      <flyin pan="77.26" fov="249.53" projection="9" tilt="-34.78"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="02.03.2021 16:25" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-3.41015625" x_floorplan_percent="50.74999999999999" y_floorplan_percent="100" x="1.42734375" mapid="FloorPlan01"/>
+      <mapcoords y="-1.70396662763466" x_floorplan_percent="91.12412177985948" y_floorplan_percent="100" x="2.562865925058548" mapid="FloorPlan03"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node1}" id="Point01" pan="-358.91" title="ENTER" description="" target="-99.2/-2.1/70.0" tilt="10.19" skinid="ht_node77"/>
+      <hotspot url="{node25}" id="Point02" pan="-171.38" title="" description="" target="-45.9/-32.7/70.0" tilt="14.15" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Birds" pan="-196.900" field="90.000" level="0.800" ambientlevel="0.050" tilt="8.640" mode="3" pansize="90.000">
+        <source url="media/Jungle Sounds.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0">
+      <clip nodeid="" transitiontype="0" animtitle="Animation01" animtype="0" length="80" nextcliptitle="Clip01" nextclipnodeid="node6" cliptitle="Clip01" nextclipstartview="179.12/8.63/83.04/9">
+        <keyframe type="0" transitiontime="0" valuestring="" value="179.12" property="0" additionaltrackid="" time="0"/>
+        <keyframe type="0" transitiontime="0" valuestring="" value="8.630000000000001" property="1" additionaltrackid="" time="0"/>
+        <keyframe type="0" transitiontime="0" valuestring="" value="83.04000000000001" property="2" additionaltrackid="" time="0"/>
+        <keyframe type="0" transitiontime="0" valuestring="" value="9" property="3" additionaltrackid="" time="0"/>
+        <keyframe type="2" transitiontime="0" bezierintime="7" bezierinvalue="179.12" bezierouttime="13" valuestring="" bezieroutvalue="179.12" value="179.12" property="0" additionaltrackid="" time="10"/>
+        <keyframe type="2" transitiontime="0" bezierintime="7.00207" bezierinvalue="18.4986" bezierouttime="20.6324" valuestring="" bezieroutvalue="-26.37" value="8.630000000000001" property="1" additionaltrackid="" time="10"/>
+        <keyframe type="2" transitiontime="0" bezierintime="22.0002" bezierinvalue="185.964" bezierouttime="31.2253" valuestring="" bezieroutvalue="212.637" value="194.637" property="2" additionaltrackid="" time="25"/>
+        <keyframe type="2" transitiontime="0" bezierintime="17" bezierinvalue="171.392" bezierouttime="26" valuestring="" bezieroutvalue="171.392" value="171.392" property="0" additionaltrackid="" time="20"/>
+        <keyframe type="2" transitiontime="0" bezierintime="16.3636" bezierinvalue="-44.0822" bezierouttime="30.9977" valuestring="" bezieroutvalue="-79.6662" value="-65.0822" property="1" additionaltrackid="" time="25"/>
+        <keyframe type="2" transitiontime="0" bezierintime="17.001" bezierinvalue="194.637" bezierouttime="24.999" valuestring="" bezieroutvalue="194.637" value="194.637" property="2" additionaltrackid="" time="20"/>
+        <keyframe type="2" transitiontime="0" bezierintime="34" bezierinvalue="367.245" bezierouttime="46" valuestring="" bezieroutvalue="367.245" value="367.245" property="0" additionaltrackid="" time="40"/>
+        <keyframe type="2" transitiontime="0" bezierintime="34" bezierinvalue="-71.2914" bezierouttime="46" valuestring="" bezieroutvalue="-71.2914" value="-71.2914" property="1" additionaltrackid="" time="40"/>
+        <keyframe type="2" transitiontime="0" bezierintime="34" bezierinvalue="194.637" bezierouttime="46" valuestring="" bezieroutvalue="194.637" value="194.637" property="2" additionaltrackid="" time="40"/>
+        <keyframe type="2" transitiontime="0" bezierintime="54" bezierinvalue="361.021" bezierouttime="63" valuestring="" bezieroutvalue="361.021" value="361.021" property="0" additionaltrackid="" time="60"/>
+        <keyframe type="2" transitiontime="0" bezierintime="54.0031" bezierinvalue="-71.2114" bezierouttime="67.3518" valuestring="" bezieroutvalue="-33.0816" value="-54.0816" property="1" additionaltrackid="" time="60"/>
+        <keyframe type="2" transitiontime="0" bezierintime="54" bezierinvalue="134.484" bezierouttime="63" valuestring="" bezieroutvalue="134.484" value="134.484" property="2" additionaltrackid="" time="60"/>
+        <keyframe type="0" transitiontime="10" valuestring="" value="4" property="3" additionaltrackid="" time="70"/>
+        <keyframe type="2" transitiontime="0" bezierintime="77" bezierinvalue="363.163" bezierouttime="10080" valuestring="" bezieroutvalue="363.163" value="363.163" property="0" additionaltrackid="" time="80"/>
+        <keyframe type="2" transitiontime="0" bezierintime="67.0158" bezierinvalue="-46.8211" bezierouttime="76.5" valuestring="" bezieroutvalue="-21.8758" value="-25.8211" property="1" additionaltrackid="" time="75"/>
+        <keyframe type="2" transitiontime="0" bezierintime="71.1423" bezierinvalue="118.494" bezierouttime="76.5" valuestring="" bezieroutvalue="93.495" value="100.494" property="2" additionaltrackid="" time="75"/>
+        <keyframe type="2" transitiontime="0" bezierintime="78.5" bezierinvalue="-1.27903" bezierouttime="10080" valuestring="" bezieroutvalue="-1.27903" value="-1.27903" property="1" additionaltrackid="" time="80"/>
+        <keyframe type="2" transitiontime="0" bezierintime="78.5" bezierinvalue="97.1938" bezierouttime="10080" valuestring="" bezieroutvalue="97.1938" value="97.1938" property="2" additionaltrackid="" time="80"/>
+      </clip>
+    </animation>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3708" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3708" levelingpitch="0">
+      <level preload="0" height="3708" predecode="0" width="3708"/>
+      <level preload="0" height="1854" predecode="0" width="1854"/>
+      <level preload="0" height="927" predecode="0" width="927"/>
+      <level preload="1" height="463" predecode="1" width="463"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-24" fovmode="0">
+      <start pan="-100.49" fov="73.01" projection="4" tilt="-0.07"/>
+      <flyin pan="-76.85" fov="70" projection="4" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="19.02.2021 8:54" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-2.7439453125" x_floorplan_percent="59.5" y_floorplan_percent="80.4639175257732" x="1.6734375" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node6}" id="Point01" pan="-283.83" title="Exit" description="" target="86.9/3.5/70.0" tilt="-0.04" skinid="ht_node77"/>
+      <hotspot url="{node3}" id="Point02" pan="-64.7" title="Living room 2" description="" target="-70.5/-1.6/70.0" tilt="-0.21" skinid="ht_node77"/>
+      <hotspot url="{node4}" id="Point03" pan="-12.6" title="Kitchen" description="" target="-9.7/3.4/70.0" tilt="0.53" skinid="ht_node77"/>
+      <hotspot url="{node21}" id="Point05" pan="-177.84" title="Badroom" description="" target="-140.5/1.2/70.0" tilt="0.77" skinid="ht_node77"/>
+      <hotspot url="{node5}" id="Point04" pan="-109.98" title="Pool deck" description="" target="2.1/2.1/70.0" tilt="-0.0900005" skinid="ht_node77"/>
+      <hotspot url="{node13}" id="Point06" pan="-354.23" title="Guest toilet" description="" target="174.8/-10.0/70.0" tilt="0.84" skinid="ht_node77"/>
+      <hotspot url="{node24}" id="Point07" pan="-238.48" title="2nd floor" description="" target="" tilt="7.84" skinid="ht_node77"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="14.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Music" pan="-6.160" field="90.000" level="0.400" ambientlevel="0.250" tilt="-2.190" mode="3" pansize="38.000">
+        <source url="media/Jazz Music.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3514" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3514" levelingpitch="0">
+      <level preload="0" height="3514" predecode="0" width="3514"/>
+      <level preload="0" height="1757" predecode="0" width="1757"/>
+      <level preload="0" height="878" predecode="0" width="878"/>
+      <level preload="1" height="439" predecode="1" width="439"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="163.81" fov="70" projection="4" tilt="0.19"/>
+      <flyin pan="-77.04" fov="70" projection="4" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="19.02.2021 9:06" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-2.2376953125" x_floorplan_percent="27.9375" y_floorplan_percent="65.61855670103093" x="0.7857421875" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node1}" id="Point01" pan="-227.42" title="Living room 1" description="" target="116.7/-8.3/70.0" tilt="0.28" skinid="ht_node77"/>
+      <hotspot url="{node4}" id="Point02" pan="-328.66" title="Kitchen" description="" target="66.6/-2.2/70.0" tilt="0.3" skinid="ht_node77"/>
+      <hotspot url="{node5}" id="Point03" pan="-139.43" title="Pool deck" description="" target="-3.5/2.2/71.7" tilt="0.310001" skinid="ht_node77"/>
+      <hotspot url="{node13}" id="Point04" pan="-285.13" title="Guest toilet" description="" target="139.7/-29.3/70.0" tilt="0.0699998" skinid="ht_node77"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="14.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Music" pan="-318.030" field="90.000" level="0.600" ambientlevel="0.250" tilt="-3.610" mode="3" pansize="38.000">
+        <source url="media/Jazz Music.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3285" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3285" levelingpitch="0">
+      <level preload="0" height="3285" predecode="0" width="3285"/>
+      <level preload="0" height="1642" predecode="0" width="1642"/>
+      <level preload="0" height="821" predecode="0" width="821"/>
+      <level preload="1" height="410" predecode="1" width="410"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-6" fovmode="0">
+      <start pan="-136.03" fov="70" projection="4" tilt="-0.8"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="19.02.2021 9:13" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-2.949609375" x_floorplan_percent="16.0625" y_floorplan_percent="86.49484536082474" x="0.4517578125" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node3}" id="Point01" pan="-139.73" title="Living room 2" description="" target="-140.4/-4.6/70.0" tilt="-0.84" skinid="ht_node77"/>
+      <hotspot url="{node1}" id="Point02" pan="-192.96" title="Living room 1" description="" target="" tilt="-0.66" skinid="ht_node77"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="14.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Music" pan="72.240" field="90.000" level="0.800" ambientlevel="0.300" tilt="-6.370" mode="3" pansize="45.000">
+        <source url="media/Jazz Music.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3282" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3282" levelingpitch="0">
+      <level preload="0" height="3282" predecode="0" width="3282"/>
+      <level preload="0" height="1641" predecode="0" width="1641"/>
+      <level preload="0" height="820" predecode="0" width="820"/>
+      <level preload="1" height="410" predecode="1" width="410"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="121" fovmode="0">
+      <start pan="-3.46" fov="71.71" projection="4" tilt="2.2"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="-360" tilt="-90"/>
+      <max fovfisheye="360" pan="277.01" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="21.02.2021 9:00" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-1.7419921875" x_floorplan_percent="40.5" y_floorplan_percent="51.08247422680412" x="1.1390625" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node3}" id="Point01" pan="-203.34" title="Living room 2" description="" target="22.2/-3.5/70.0" tilt="2.4" skinid="ht_node77"/>
+      <hotspot url="{node8}" id="Point02" pan="-60.6" title="Rest zone" description="" target="13.5/-2.9/70.0" tilt="1.59" skinid="ht_node77"/>
+      <hotspot url="{node22}" id="Point03" pan="-92" title="Badroom" description="" target="76.1/0.4/70.0" tilt="1.87" skinid="ht_node77"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="14.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Music" pan="-207.630" field="90.000" level="0.700" ambientlevel="0.150" tilt="0.650" mode="3" pansize="25.000">
+        <source url="media/Jazz Music.mp3"/>
+      </sound>
+      <sound tiltsize="10.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Birds" pan="-25.650" field="90.000" level="0.800" ambientlevel="0.050" tilt="3.380" mode="3" pansize="51.000">
+        <source url="media/Jungle Sounds.mp3"/>
+      </sound>
+      <video nodechangekeep="0" tiltsize="10.000" startmutedmobile="1" mode="3" id="Element01" fov="99.000" roty="0.000" rotx="0.000" field="90.000" width="720" loop="0" stretch="1.000" height="720" pan="-3.140" ambientlevel="0.100" tilt="-56.180" level="1.000" handcursor="0" pansize="10.000" rotz="0.000" clickmode="0">
+        <source url="media/Двор 2_patch_2.mp4"/>
+      </video>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3282" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3282" levelingpitch="0">
+      <level preload="0" height="3282" predecode="0" width="3282"/>
+      <level preload="0" height="1641" predecode="0" width="1641"/>
+      <level preload="0" height="820" predecode="0" width="820"/>
+      <level preload="1" height="410" predecode="1" width="410"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-1.75" fovmode="0">
+      <start pan="8.25" fov="65.95" projection="4" tilt="0"/>
+      <flyin pan="0" fov="169" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="-188.33" tilt="-90"/>
+      <max fovfisheye="360" pan="110.73" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="21.02.2021 8:54" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-0.8173828125" x_floorplan_percent="84.5" y_floorplan_percent="23.96907216494845" x="2.3765625" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node5}" id="Point02" pan="-349.97" title="Pool deck" description="" target="-3.5/2.2/71.7" tilt="0.85" skinid="ht_node77"/>
+      <hotspot url="{node22}" id="Point03" pan="-309.49" title="Bedroom" description="" target="76.1/0.4/70.0" tilt="-0.02" skinid="ht_node77"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Birds" pan="-126.550" field="90.000" level="0.800" ambientlevel="0.050" tilt="4.230" mode="3" pansize="90.000">
+        <source url="media/Jungle Sounds.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3309" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3309" levelingpitch="0">
+      <level preload="0" height="3309" predecode="0" width="3309"/>
+      <level preload="0" height="1654" predecode="0" width="1654"/>
+      <level preload="0" height="827" predecode="0" width="827"/>
+      <level preload="1" height="413" predecode="1" width="413"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="20" fovmode="0">
+      <start pan="174.83" fov="70" projection="4" tilt="-10"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="02.03.2021 12:41" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-3.1025390625" x_floorplan_percent="31.5" y_floorplan_percent="90.97938144329896" x="0.8859375" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node1}" id="Point01" pan="-82.22" title="Living room 1" description="" target="-50.4/-0.3/70.0" tilt="-5.1" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node21">
+    <input leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3285" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3285" levelingpitch="0">
+      <level preload="0" height="3285" predecode="0" width="3285"/>
+      <level preload="0" height="1642" predecode="0" width="1642"/>
+      <level preload="0" height="821" predecode="0" width="821"/>
+      <level preload="1" height="410" predecode="1" width="410"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-119.48" fov="70" projection="4" tilt="-0.06"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="21.02.2021 8:28" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-2.3625" x_floorplan_percent="68" y_floorplan_percent="69.27835051546391" x="1.9125" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node1}" id="Point01" pan="-323.61" title="" description="" target="" tilt="0" skinid="ht_node77"/>
+      <hotspot url="{node22}" id="Point02" pan="-124.31" title="Bedroom" description="" target="-103.1/-0.1/70.0" tilt="0.03" skinid="ht_node77"/>
+      <hotspot url="{node17}" id="Point03" pan="-206.35" title="Bathroom" description="" target="98.2/-1.1/70.0" tilt="-0.18" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node22">
+    <input leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3283" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3283" levelingpitch="0">
+      <level preload="0" height="3283" predecode="0" width="3283"/>
+      <level preload="0" height="1641" predecode="0" width="1641"/>
+      <level preload="0" height="820" predecode="0" width="820"/>
+      <level preload="1" height="410" predecode="1" width="410"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="76.14" fov="70" projection="4" tilt="0.4"/>
+      <flyin pan="75.91" fov="70" projection="4" tilt="0.41"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="21.02.2021 8:33" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|1_floor" latitude="">
+      <mapcoords y="-1.691015625" x_floorplan_percent="80.375" y_floorplan_percent="49.58762886597938" x="2.260546875" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node21}" id="Point01" pan="-314.55" title="" description="" target="" tilt="0.09" skinid="ht_node77"/>
+      <hotspot url="{node17}" id="Point02" pan="-255.62" title="Bathroom" description="" target="90.1/0.4/70.0" tilt="-0.13" skinid="ht_node77"/>
+      <hotspot url="{node8}" id="Point03" pan="-117.79" title="" description="" target="0.0/0.0/70.0" tilt="0.459999" skinid="ht_node77"/>
+      <hotspot url="{node5}" id="Point04" pan="-15.1" title="" description="" target="-3.5/2.2/71.7" tilt="0.36" skinid="ht_node77"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Birds" pan="-108.810" field="90.000" level="0.500" ambientlevel="0.050" tilt="2.580" mode="3" pansize="30.000">
+        <source url="media/Jungle Sounds.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3305" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3305" levelingpitch="0">
+      <level preload="0" height="3305" predecode="0" width="3305"/>
+      <level preload="0" height="1652" predecode="0" width="1652"/>
+      <level preload="0" height="826" predecode="0" width="826"/>
+      <level preload="1" height="413" predecode="1" width="413"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="105.32" fov="70" projection="4" tilt="1.39"/>
+      <flyin pan="100.99" fov="70" projection="4" tilt="1.22"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="02.03.2021 11:50" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО" latitude=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node22}" id="Point01" pan="-128.51" title="Bedroom" description="" target="40.3/-1.9/70.0" tilt="0.98" skinid="ht_node77"/>
+      <hotspot url="{node18}" id="Point02" pan="-274.47" title="Bathroom 2" description="" target="-112.5/-1.3/70.0" tilt="1.21" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3303" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3303" levelingpitch="0">
+      <level preload="0" height="3303" predecode="0" width="3303"/>
+      <level preload="0" height="1651" predecode="0" width="1651"/>
+      <level preload="0" height="825" predecode="0" width="825"/>
+      <level preload="1" height="412" predecode="1" width="412"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-114.54" fov="70" projection="4" tilt="0.22"/>
+      <flyin pan="-119.16" fov="70" projection="4" tilt="-0.59"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="02.03.2021 11:56" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО" latitude=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node17}" id="Point01" pan="-90.34" title="Bathroom 1" description="" target="-129.1/-2.2/70.0" tilt="0.21" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node23">
+    <input leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3374" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3374" levelingpitch="0">
+      <level preload="0" height="3374" predecode="0" width="3374"/>
+      <level preload="0" height="1687" predecode="0" width="1687"/>
+      <level preload="0" height="843" predecode="0" width="843"/>
+      <level preload="1" height="421" predecode="1" width="421"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="48.3" fovmode="0">
+      <start pan="-5.11" fov="96.25" projection="4" tilt="-0.85"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="15.03.2021 16:46" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="Pano2VR6_1|2_floor" latitude="">
+      <mapcoords y="-1.521143617021277" x_floorplan_percent="68.68085106382978" y_floorplan_percent="68.55447680690399" x="1.931648936170213" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node24}" id="Point01" pan="-235.93" title="1th floor" description="" target="-9.7/-11.7/71.4" tilt="-32.65" skinid="ht_node77"/>
+      <hotspot url="{node9}" id="Point02" pan="-45.6" title="Bedroom " description="" target="-137.8/0.9/83.5" tilt="-0.52" skinid="ht_node77"/>
+      <hotspot url="{node19}" id="Point03" pan="-324.73" title="Bedroom" description="" target="66.4/0.2/70.0" tilt="-0.84" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node24">
+    <input leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3335" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3335" levelingpitch="0">
+      <level preload="0" height="3335" predecode="0" width="3335"/>
+      <level preload="0" height="1667" predecode="0" width="1667"/>
+      <level preload="0" height="833" predecode="0" width="833"/>
+      <level preload="1" height="416" predecode="1" width="416"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="89.9" fovmode="0">
+      <start pan="0" fov="71.4" projection="4" tilt="-9.7"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="15.03.2021 16:54" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="Pano2VR6_1|1_floor" latitude="">
+      <mapcoords y="-3.1552734375" x_floorplan_percent="71.125" y_floorplan_percent="92.5257731958763" x="2.000390625" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node23}" id="Point01" pan="-358.56" title="2th floor" description="" target="-5.1/-0.8/96.3" tilt="17.27" skinid="ht_node77"/>
+      <hotspot url="{node1}" id="Point02" pan="-331.55" title="Living room 1" description="" target="-100.5/-0.1/73.0" tilt="-38.67" skinid="ht_node77"/>
+      <hotspot url="{node21}" id="Point03" pan="-357.56" title="Bedroom" description="" target="-119.5/-0.1/70.0" tilt="-24.79" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3302" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3302" levelingpitch="0">
+      <level preload="0" height="3302" predecode="0" width="3302"/>
+      <level preload="0" height="1651" predecode="0" width="1651"/>
+      <level preload="0" height="825" predecode="0" width="825"/>
+      <level preload="1" height="412" predecode="1" width="412"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-137.75" fov="83.52" projection="4" tilt="0.92"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="18.02.2021 13:02" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-1.219547872340426" x_floorplan_percent="67.82978723404256" y_floorplan_percent="54.96224379719526" x="1.907712765957447" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node23}" id="Point01" pan="-307.55" title="" description="" target="129.3/-26.3/70.0" tilt="0.52" skinid="ht_node77"/>
+      <hotspot url="{node10}" id="Point02" pan="-125.17" title="Bedroom" description="" target="-109.8/-4.4/70.0" tilt="0.73" skinid="ht_node77"/>
+      <hotspot url="{node15}" id="Point03" pan="-204.48" title="Bathroom" description="" target="138.9/0.0/70.0" tilt="0.25" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3299" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3299" levelingpitch="0">
+      <level preload="0" height="3299" predecode="0" width="3299"/>
+      <level preload="0" height="1649" predecode="0" width="1649"/>
+      <level preload="0" height="824" predecode="0" width="824"/>
+      <level preload="1" height="412" predecode="1" width="412"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="80.6" fov="86.28" projection="4" tilt="0.92"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="18.02.2021 13:07" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-0.5050531914893617" x_floorplan_percent="80.21276595744681" y_floorplan_percent="22.76159654800431" x="2.255984042553191" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node9}" id="Point01" pan="-316.67" title="Exit" description="" target="" tilt="0.72" skinid="ht_node77"/>
+      <hotspot url="{node15}" id="Point02" pan="-244.53" title="Bathroom" description="" target="" tilt="0.68" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3305" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3305" levelingpitch="1.5">
+      <level preload="0" height="3305" predecode="0" width="3305"/>
+      <level preload="0" height="1652" predecode="0" width="1652"/>
+      <level preload="0" height="826" predecode="0" width="826"/>
+      <level preload="1" height="413" predecode="1" width="413"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="138.86" fov="70" projection="4" tilt="0"/>
+      <flyin pan="10" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="02.03.2021 11:42" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-1.561835106382979" x_floorplan_percent="88.38297872340426" y_floorplan_percent="70.3883495145631" x="2.485771276595745" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node9}" id="Point01" pan="-121.61" title="Bedroom" description="" target="61.1/-3.7/70.0" tilt="0.15" skinid="ht_node77"/>
+      <hotspot url="{node16}" id="Point02" pan="-264.38" title="Bathroom 2" description="" target="" tilt="0.1" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3299" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3299" levelingpitch="0">
+      <level preload="0" height="3299" predecode="0" width="3299"/>
+      <level preload="0" height="1649" predecode="0" width="1649"/>
+      <level preload="0" height="824" predecode="0" width="824"/>
+      <level preload="1" height="412" predecode="1" width="412"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-99.79" fov="70" projection="4" tilt="-0.03"/>
+      <flyin pan="-92.97" fov="70" projection="4" tilt="0"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="18.02.2021 12:56" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-1.867021276595745" x_floorplan_percent="87.95744680851064" y_floorplan_percent="84.14239482200647" x="2.473803191489362" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node15}" id="Point01" pan="-99.03" title="Bathroom 1" description="" target="" tilt="0.239999" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node19">
+    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3300" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3300" levelingpitch="0">
+      <level preload="0" height="3300" predecode="0" width="3300"/>
+      <level preload="0" height="1650" predecode="0" width="1650"/>
+      <level preload="0" height="825" predecode="0" width="825"/>
+      <level preload="1" height="412" predecode="1" width="412"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-25" fovmode="0">
+      <start pan="66.38" fov="70" projection="4" tilt="0.21"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="18.02.2021 14:03" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-1.226728723404255" x_floorplan_percent="45.19148936170212" y_floorplan_percent="55.2858683926645" x="1.271010638297872" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node2}" id="Point01" pan="-266.22" title="Dressing room" description="" target="128.9/-3.8/70.0" tilt="0.33" skinid="ht_node77"/>
+      <hotspot url="{node14}" id="Point02" pan="-323.85" title="Bathroom" description="" target="-159.9/-4.6/70.0" tilt="0.28" skinid="ht_node77"/>
+      <hotspot url="{node12}" id="Point03" pan="-359.04" title="Terrace" description="" target="-122.7/-3.7/70.0" tilt="0.27" skinid="ht_node77"/>
+      <hotspot url="{node23}" id="Point04" pan="-246.04" title="Exit" description="" target="123.9/-11.5/96.3" tilt="0.11" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3303" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3303" levelingpitch="0">
+      <level preload="0" height="3303" predecode="0" width="3303"/>
+      <level preload="0" height="1651" predecode="0" width="1651"/>
+      <level preload="0" height="825" predecode="0" width="825"/>
+      <level preload="1" height="412" predecode="1" width="412"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="122.77" fov="94.74" projection="4" tilt="1.7"/>
+      <flyin pan="120.66" fov="113.28" projection="4" tilt="-1.03"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="18.02.2021 14:28" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-1.837101063829787" x_floorplan_percent="57.74468085106383" y_floorplan_percent="82.79395900755124" x="1.62406914893617" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node19}" id="Point01" pan="-134.27" title="Bedroom" description="" target="66.4/0.2/70.0" tilt="1.28" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3309" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3309" levelingpitch="0">
+      <level preload="0" height="3309" predecode="0" width="3309"/>
+      <level preload="0" height="1654" predecode="0" width="1654"/>
+      <level preload="0" height="827" predecode="0" width="827"/>
+      <level preload="1" height="413" predecode="1" width="413"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-17" fovmode="0">
+      <start pan="-125.32" fov="70" projection="4" tilt="-0.04"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="18.02.2021 14:36" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-1.400265957446809" x_floorplan_percent="16.46808510638298" y_floorplan_percent="63.10679611650486" x="0.4631648936170213" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node19}" id="Point01" pan="-182.8" title="Bedroom" description="" target="66.4/0.2/70.0" tilt="-0.0600005" skinid="ht_node77"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" loop="0" startmutedmobile="0" nodechangekeep="0" id="Birds" pan="-81.100" field="90.000" level="0.800" ambientlevel="0.050" tilt="9.230" mode="3" pansize="60.000">
+        <source url="media/Jungle Sounds.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="3301" overlap="1" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="3301" levelingpitch="0">
+      <level preload="0" height="3301" predecode="0" width="3301"/>
+      <level preload="0" height="1650" predecode="0" width="1650"/>
+      <level preload="0" height="825" predecode="0" width="825"/>
+      <level preload="1" height="412" predecode="1" width="412"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="78" fovmode="0">
+      <start pan="-158.33" fov="92.93" projection="4" tilt="1.61"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata datetime="18.02.2021 14:19" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="ГОТОВО|2_floor" latitude="">
+      <mapcoords y="-1.908909574468085" x_floorplan_percent="37.95744680851064" y_floorplan_percent="86.0302049622438" x="1.067553191489362" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label background="1" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" height="0" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" mode="0"/>
+      <hotspot url="{node19}" id="Point01" pan="-339.61" title="Bedroom" description="" target="66.4/0.2/70.0" tilt="1.39" skinid="ht_node77"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" zoomoutpause="1" type="crossdissolve" zoomin="2" enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="20" zoomspeed="2"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <flyintransition speed="2.99" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" hideabout="1" contextfullscreen="1" rubberband="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedwheel="0">
+      <menulink url="https://www.vladgrom.gq/" text="&lt;img src=&quot;images/Logo1.png&quot; alt=&quot;VLAD GROM&quot; width=&quot;135&quot; height=&quot;135&quot;>"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata datetime="" customnodeid="" title="" comment="" description="" info="" longitude="" source="" author="" copyright="" tags="" latitude=""/>
+  </masternode>
+  <map type="file" bgcolor="rgba(255, 255, 255, 0)" floorplannorth="256.01" height="1940" id="FloorPlan01" title="1_FLOOR" transparent="1" zoomlevels="1" tileformat="png" width="1600"/>
+  <map type="file" bgcolor="rgba(255, 255, 255, 0)" floorplannorth="271.01" height="1854" id="FloorPlan02" title="2_FLOOR" transparent="1" zoomlevels="1" tileformat="png" width="2350"/>
+  <map type="file" bgcolor="rgba(255, 255, 255, 0)" floorplannorth="0" height="2587" id="FloorPlan03" title="" transparent="1" zoomlevels="1" tileformat="png" width="4270"/>
+</tour>
