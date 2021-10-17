@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.0.1/17227
 // Filename: IDEA_development.ggsk
-// Generated вс окт. 17 16:39:02 2021
+// Generated вс окт. 17 16:51:32 2021
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);

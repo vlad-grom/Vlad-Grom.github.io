@@ -24,16 +24,16 @@
       <hotspot skinid="ht_node" pan="-152.69" description="" url="{node26}" id="Point01" target="-156.0/-22.3/70.0" title="" tilt="-34.35"/>
     </hotspots>
     <media>
-      <image rotz="151.000" pan="-242.870" stretch="1.000" width="1526" rotx="-4.000" roty="1.000" id="Element01" height="1566" fov="90.000" clickmode="0" handcursor="0" tilt="-80.160">
+      <image rotz="151.000" pan="-242.870" stretch="1.000" width="1526" rotx="-4.000" roty="1.000" id="Element01" height="1566" fov="90.000" clickmode="1" handcursor="0" tilt="-80.160">
         <source url="media/Plot-F-H.png"/>
       </image>
       <image rotz="0.000" pan="-0.980" stretch="1.000" width="1493" rotx="0.000" roty="0.000" id="Element02" height="1384" fov="45.380" clickmode="0" handcursor="0" tilt="-0.880">
         <source url="media/Plot-E-D.png"/>
       </image>
-      <image rotz="-144.000" pan="-135.920" stretch="1.000" width="1493" rotx="-53.000" roty="-64.000" id="Element03" height="1384" fov="62.821" clickmode="0" handcursor="0" tilt="-36.870">
+      <image rotz="-144.000" pan="-135.920" stretch="1.000" width="1493" rotx="-53.000" roty="-64.000" id="Element03" height="1384" fov="62.820" clickmode="1" handcursor="0" tilt="-36.870">
         <source url="media/Plot-E-D.png"/>
       </image>
-      <image rotz="-163.000" pan="-131.820" stretch="1.000" width="2153" rotx="-78.000" roty="-60.000" id="Element04" height="1211" fov="54.359" clickmode="0" handcursor="0" tilt="-28.820">
+      <image rotz="-163.000" pan="-131.820" stretch="1.000" width="2153" rotx="-78.000" roty="-60.000" id="Element04" height="1211" fov="54.360" clickmode="1" handcursor="0" tilt="-28.820">
         <source url="media/Plot-A-C.png"/>
       </image>
     </media>
@@ -70,13 +70,13 @@
       <hotspot skinid="ht_node" pan="-320.36" description="" url="{node27}" id="Point02" target="163.5/-22.2/70.0" title="" tilt="-5.24"/>
     </hotspots>
     <media>
-      <image rotz="70.000" pan="-298.330" stretch="1.000" width="1526" rotx="-1.000" roty="68.000" id="Element01" height="1566" fov="72.820" clickmode="0" handcursor="0" tilt="-24.230">
+      <image rotz="70.000" pan="-298.330" stretch="1.000" width="1526" rotx="-1.000" roty="68.000" id="Element01" height="1566" fov="72.820" clickmode="1" handcursor="0" tilt="-24.230">
         <source url="media/Plot-F-H.png"/>
       </image>
-      <image rotz="-127.000" pan="-140.190" stretch="1.000" width="1493" rotx="-15.000" roty="-11.000" id="Element02" height="1384" fov="94.000" clickmode="0" handcursor="0" tilt="-74.660">
+      <image rotz="-127.000" pan="-140.190" stretch="1.000" width="1493" rotx="-15.000" roty="-11.000" id="Element02" height="1384" fov="94.000" clickmode="1" handcursor="0" tilt="-74.660">
         <source url="media/Plot-E-D.png"/>
       </image>
-      <image rotz="-153.000" pan="-136.840" stretch="1.000" width="2153" rotx="-72.000" roty="-53.000" id="Element03" height="1211" fov="61.026" clickmode="0" handcursor="0" tilt="-38.550">
+      <image rotz="-153.000" pan="-136.840" stretch="1.000" width="2153" rotx="-72.000" roty="-53.000" id="Element03" height="1211" fov="61.030" clickmode="1" handcursor="0" tilt="-38.550">
         <source url="media/Plot-A-C.png"/>
       </image>
     </media>
